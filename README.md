@@ -6,3 +6,8 @@ Xcode file and project templates
 ```
 ~/Library/Developer/Xcode/Templates
 ```
+
+#### Code snippets location
+```
+~/Library/Developer/Xcode/UserData/CodeSnippets
+```
